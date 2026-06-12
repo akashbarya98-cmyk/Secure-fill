@@ -1,0 +1,6 @@
+{
+  "name": "SecureFill AI",
+  "description": "Your Identity. Understood by AI. An AI-powered digital identity vault to store docs, extract info with OCR, autofill forms, and chat with an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
